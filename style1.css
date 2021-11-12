@@ -1,8 +1,8 @@
 body {
   display: flex;
   justify-content: center;
-  align-items: cente
-  flex-wrap: wrap;
+  align-items: center;
+  flex-wrap: wr
   gap: 50px;
 
   height: 100%;
