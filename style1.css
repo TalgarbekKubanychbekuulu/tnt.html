@@ -1,7 +1,7 @@
 body {
   display: flex;
-  justify-content: cente
-  align-items: center;
+  justify-content: center;
+  align-items: cente
   flex-wrap: wrap;
   gap: 50px;
 
