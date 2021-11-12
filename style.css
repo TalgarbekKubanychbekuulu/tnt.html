@@ -21,8 +21,8 @@ body{
 
     transition: transform 1s ease-in-out;
 }
-div:nth-child(1)
-    animation-name: skewX;
+div:nth-child(1) {
+    animation-name: skew
     animation-duration: 1s;
     animation-timing-function: ease-in-out;
     animation-iteration-count: infinite;
