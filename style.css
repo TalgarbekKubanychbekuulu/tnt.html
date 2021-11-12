@@ -19,9 +19,9 @@ body{
     height: 100%;
     margin: 30px;
 
-    transition: transform 1s ease-in-ou
+    transition: transform 1s ease-in-out;
 }
-div:nth-child(1) {
+div:nth-child(1)
     animation-name: skewX;
     animation-duration: 1s;
     animation-timing-function: ease-in-out;
