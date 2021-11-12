@@ -17,9 +17,9 @@ body{
     gap: 50px;
 
     height: 100%;
-    margin: 30
+    margin: 30px;
 
-    transition: transform 1s ease-in-out;
+    transition: transform 1s ease-in-ou
 }
 div:nth-child(1) {
     animation-name: skewX;
