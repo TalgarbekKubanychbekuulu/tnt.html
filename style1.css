@@ -1,6 +1,6 @@
 body {
-  display: f
-  justify-content: center;
+  display: flex;
+  justify-content: cente
   align-items: center;
   flex-wrap: wrap;
   gap: 50px;
