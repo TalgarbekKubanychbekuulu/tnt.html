@@ -1,11 +1,11 @@
 div{
     padding: 15px;
     background-color: tomato;
-    disp
+    display: inline-block;
     font-size: 1,5rem;
 }
 html{
-    height: 100%;
+    height:
 }
     body{
      display: flex;
