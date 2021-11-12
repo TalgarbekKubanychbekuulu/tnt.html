@@ -24,8 +24,8 @@ body{
 div:nth-child(1) {
     animation-name: skewX;
     animation-duration: 1s;
-   : ease-in-out;
-    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    : infinite;
 }
 
 
