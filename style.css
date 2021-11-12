@@ -13,11 +13,11 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    flex-wrap: wr
+    flex-wrap: wrap;
     gap: 50px;
 
     height: 100%;
-    margin: 30px;
+    margin: 30
 
     transition: transform 1s ease-in-out;
 }
