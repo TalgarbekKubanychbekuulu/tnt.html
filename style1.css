@@ -3,6 +3,7 @@ body {
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
+  gap: 50p
 
   height: 100%;
   margin: 30px;
