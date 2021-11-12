@@ -63,7 +63,7 @@ img {
 
   animation-name: star;
   animation-duration: 1s;
-  
+  animation-iteration-count: infinite;
 }
 
 @keyframes star {
@@ -80,7 +80,7 @@ img {
   body {
     background-color:green;
   }
-.ex {
+.ex 
   width: 100%;
   height: 100%;
   background: none;
