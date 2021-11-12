@@ -10,8 +10,8 @@ html{
     body{
      display: flex;
     align-items: center;
-    flex-wrap: wra
-    gap:50px;
+    flex-wrap: wrap;
+    gap:50p
     justify-content: center;
     height: 100%;
     width: 30px;
