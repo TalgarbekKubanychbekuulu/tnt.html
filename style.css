@@ -5,11 +5,11 @@ div{
     font-size: 1,5rem;
 }
 html{
-    height:
+    height: 100%;
 }
     body{
      display: flex;
-    align-items: center;
+    align-items: cente
     flex-wrap: wrap;
     gap:50px;
     justify-content: center;
