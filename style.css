@@ -1,5 +1,5 @@
 div{
-    padding: 15px;
+    
     background-color: tomato;
     display: inline-block;
     font-size: 1,5rem;
@@ -7,7 +7,7 @@ div{
 html{
     height: 100%;
 }
-   
+    body{
      display: flex;
     align-items: center;
     flex-wrap: wrap;
